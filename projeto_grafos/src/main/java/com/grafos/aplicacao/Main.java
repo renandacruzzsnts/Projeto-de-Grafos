@@ -15,9 +15,9 @@ public class Main {
 
     public static void main(String[] args) {
         String[] arquivosGrafo = {
-            "home/ubuntu/projeto_grafos/dados/USA-road-d.NY.gr",
-            "home/ubuntu/projeto_grafos/dados/USA-road-d.BAY.gr",
-            "home/ubuntu/projeto_grafos/dados/USA-road-d.COL.gr"
+            "projeto_grafos/dados/USA-road-d.NY.gr",
+            "projeto_grafos/dados/USA-road-d.BAY.gr",
+            "projeto_grafos/dados/USA-road-d.COL.gr"
         };
 
         System.out.println("\n--- Resultados dos Algoritmos ---");
